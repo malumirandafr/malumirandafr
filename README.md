@@ -11,7 +11,7 @@
   <img align="center" alt="Malu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Malu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Malu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  src= "https://media.discordapp.net/attachments/957403848807419926/1001225251247640626/unknown.png"
+  src= ""
 
 </div>
   
