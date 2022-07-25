@@ -1,4 +1,4 @@
-## Olá! Eu sou malumirandafr e esse é meu GitHub!
+## Hi! I'm malumirandafr and that's my GitHub!
 
 <div align="center">
   <a href="https://github.com/malumirandafr">
