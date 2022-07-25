@@ -1,10 +1,5 @@
 ## Olá! Eu sou malumirandafr e esse é meu GitHub!
 
-#header {
-	border-top: 10px solid #11242e;
-	background: #193442;
-}
-
 <div align="center">
   <a href="https://github.com/malumirandafr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malumirandafr&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
