@@ -11,7 +11,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Malu-Java" height="30" width="40" src="https://media.discordapp.net/attachments/999469837698998292/1001325189725966426/unknown.png">
+  <img align="center" alt="Malu-Java" height="30" width="40" src="https://media.discordapp.net/attachments/999469837698998292/1001326004041683004/unknown.png">
   <img align="center" alt="Malu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Malu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Malu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
