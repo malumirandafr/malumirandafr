@@ -1,13 +1,13 @@
 ## Hi! I'm malumirandafr and that's my GitHub!
 
 <div align="center">
-  <img height="300em" src="https://media.discordapp.net/attachments/957403848807419926/1001317507732357210/unknown.png"/>
+  <img height="330em" src="https://media.discordapp.net/attachments/957403848807419926/1001317507732357210/unknown.png"/>
 </div>
 
 <div align = "center">
   <a href="https://github.com/malumirandafr">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=malumirandafr&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malumirandafr&layout=compact&langs_count=7&theme=aura"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=malumirandafr&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malumirandafr&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
 <div style="display: inline_block"><br>
