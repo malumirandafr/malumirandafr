@@ -15,8 +15,8 @@
   <img align="center" alt="Malu-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Malu-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Malu-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="cc">
   <img align="center" alt="Malu-Flask" height="40" width="40" src="https://media.discordapp.net/attachments/992238319259893860/1078029087173513246/159-1595977_flask-python-logo-hd-png-download.png?width=305&height=406">
+  
 </div>
   
 </div>
